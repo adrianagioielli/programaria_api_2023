@@ -1,0 +1,11 @@
+break         delete           super
+case          do               switch
+catch         else             this
+class         export           throw
+const         extends          try
+continue      finally          typeof
+debugger      for              var
+default       function         void
+in            if               while
+instanceof    import           with
+new           return           yield
